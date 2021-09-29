@@ -1,4 +1,4 @@
-jupyter-book>=0.8.1
-matplotlib
-numpy
-scipy
+1. jupyter-book>=0.8.1
+2. matplotlib
+3. numpy
+4. scipy
